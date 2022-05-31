@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "LairPaFu",
+    "email": "f1954795842@163.com",
+    "password": "0b765295ae21e0e7e4b628e2e39df21a",
+    "nickname": "星",
+    "avatar": "a1sad4wf658sfas418.jpg"
+  },
+  {
+    "id": 2,
+    "username": "admin@pf",
+    "email": "1954795842@qq.com",
+    "password": "F1181911815",
+    "nickname": "PaFu",
+    "avatar": "d5af15465a18sd651.jpg"
+  },
+  {
+    "id": 3,
+    "username": "test123",
+    "email": "test123@163.com",
+    "password": "test123456",
+    "nickname": "老王在吗",
+    "avatar": ""
+  }
+]
